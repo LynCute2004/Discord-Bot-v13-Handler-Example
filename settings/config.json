@@ -1,9 +1,5 @@
 {
-    "token": "ODg5NjY1OTE3MDE1OTY5ODEz.YUkj8w.xn8-ZvtkRpJwFMh1t45u6hDsZHg",
-    "prefix": "n!",
-    "ownerid": [
-        "573805531773272064"
-    ],
-    "mst": 5000,
-    "server": " "
+    "token": "your-token-bot",
+    "prefix": "your-prefix-bot",
+    "ownerid": ["your-owner-bot"],
 }
