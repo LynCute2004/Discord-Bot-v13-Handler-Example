@@ -18,8 +18,8 @@ client.on('messageCreate', async message => {
             message.channel.send({
                 embeds: [new MessageEmbed()
                     .setColor(ee.embed_color)
-                    .setAuthor(`Hey, You Pinged me.. 😉`)
-                    .setDescription(`My Developer is <@882481863661342770> \n\n My Name is **${client.user.username}** \n My prefix is \`${prefix}\` \n You can see my all commands by type \`${prefix}help\` \n [My Support Server](${config.server}) `)
+                    .setAuthor(`Hey, You Pinged me!`)
+                    .setDescription(`My Name is **${client.user.username}** \n My prefix is \`${prefix}\` \n You can see my all commands by type \`${prefix}help\` \n [My Support Server](${config.server}) `)
                     .setFooter(ee.embed_footertext, ee.embed_footericon)
                 ]
             });
